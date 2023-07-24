@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * get_size - This function Calculates the size to cast the argument.
+ * size_handler - This function Calculates the size to cast the argument.
  *
  * @format: Formatted a string.
  * @i: List of arguments to be printed.
  *
  * Return: Precision.
  */
-int get_size(const char *format, int *i)
+int size_handler(const char *format, int *i)
 {
 	int current_i = *i + 1;
 	int size = 0;
