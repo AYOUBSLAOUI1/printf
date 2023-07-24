@@ -1,5 +1,5 @@
 0x11. C - printf
-__________________________________________________
+___________________________
 
-ASSIA HASSANI
-AYOUB SLAOUI
+ASSIA HASSANI.
+AYOUB SLAOUI.
